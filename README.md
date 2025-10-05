@@ -26,8 +26,7 @@ A modern, full‑stack hiring platform that streamlines job posting, candidate m
 - **Authentication**: Secure signup/login with JWT  
 - **Job Management**: Create, edit, and archive job postings  
 - **Candidate Tracking**: View and filter applications per job  
-- **Interview Scheduling**: Calendar invites and reminders  
-- **Real‑time Chat**: In‑app messaging with candidates  
+- **Interview Scheduling**: Calendar invites and reminders   
 - **Admin Dashboard**: Analytics on applicants, open roles, and time‑to‑hire  
 
 > 🔥 Check it out live: [HireNext](https://hirenext-liard.vercel.app/)
